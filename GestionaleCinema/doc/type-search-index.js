@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.esercizio.cinema","l":"MainCinema"},{"p":"it.esercizio.cinema","l":"OperazioniPrenotazioni"},{"p":"it.esercizio.cinema","l":"Prenotazione"},{"p":"it.esercizio.cinema","l":"PrenotazioneGruppo"},{"p":"it.esercizio.cinema","l":"PrenotazioneSingola"}];updateSearchResults();
